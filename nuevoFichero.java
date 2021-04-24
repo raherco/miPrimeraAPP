@@ -3,7 +3,7 @@ public class nuevoFichero {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Modificado desde local PC");
+		System.out.println("Cambiado desde rama nueva");
 	}
 
 }
